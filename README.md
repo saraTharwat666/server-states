@@ -27,6 +27,9 @@ server-stats/
 - Bash
 - Linux built-in commands (top, free, df, ps, uptime)
 
+## 🔗 Project Page
+[View Project on SH](https://roadmap.sh/projects/server-stats)
+
 ## ✨ Author
 Sara — Junior DevOps Engineer
 
